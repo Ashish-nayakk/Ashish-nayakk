@@ -244,7 +244,7 @@ Explore the rest of my work on GitHub — ML experiments, data pipelines, NLP re
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ashishnayakworks.vercel.app-7c3aed?style=for-the-badge)](https://ashishnayakworks.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-nayak-2ba779385)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashishnayak3157)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishnayakofficial05@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-nayakk)
