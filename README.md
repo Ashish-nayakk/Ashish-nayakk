@@ -53,44 +53,28 @@ class AshishKumarNayak:
 
 <div align="center">
 
-**Languages**
+**Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark)](https://skillicons.dev)
 
 **AI · ML · Deep Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark)](https://skillicons.dev)
 
-**NLP · LLM · GenAI**
+**NLP · LLM · Data**
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark)](https://skillicons.dev)
 
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
-
-**Data Science**
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & DevOps**
+**Databases & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,git,linux,vscode,flask,fastapi&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -186,7 +170,7 @@ GenAI-powered conversational agent with **RAG pipeline** + **intent detection**
 
 ### 📂 More Projects
 
-Explore the rest of my work on GitHub — ML experiments, data pipelines, NLP research, and more.
+Explore the rest of my work — ML experiments, data pipelines, NLP research, and more.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![ML](https://img.shields.io/badge/Machine%20Learning-6d28d9?style=flat-square)
@@ -218,16 +202,6 @@ Explore the rest of my work on GitHub — ML experiments, data pipelines, NLP re
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ashish-nayakk&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/Ashish-nayakk)
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 | 🏅 | Certification | Issuer | Period |
@@ -251,7 +225,7 @@ Explore the rest of my work on GitHub — ML experiments, data pipelines, NLP re
 
 <br/>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logoColor=black)](https://buymeacoffee.com/ashishkumarnayak)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logoColor=black)](buymeacoffee.com/ashishnayad)
 
 </div>
 
@@ -261,7 +235,7 @@ Explore the rest of my work on GitHub — ML experiments, data pipelines, NLP re
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7c3aed,100:6d28d9&height=120&section=footer)
 
-**Built with ❤️ by Ashish Kumar Nayak**
+**Built by Ashish Kumar Nayak**
 *AI/ML Engineer & Data Scientist · 2026*
 
 ⭐ **If this profile inspired you, star a repo!** ⭐
