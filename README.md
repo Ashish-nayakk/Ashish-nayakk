@@ -1,83 +1,53 @@
-<!-- HEADER BANNER - Using GitHub-Safe SVG -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Ashish%20Kumar%20Nayak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%26%20Data%20Scientist&descAlignY=60&descSize=18" width="100%" />
-</p>
+<div align="center">
 
-<!-- TYPING ANIMATION - FIXED -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Data+Scientist;Building+Real-World+AI+Systems;NLP+%26+LLM+Enthusiast;RAG+%26+Generative+AI+Explorer;Full-Stack+ML+Developer;Welcome+to+My+GitHub+%F0%9F%9A%80" alt="Typing Animation" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Ashish%20Kumar%20Nayak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%26%20Data%20Scientist&descAlignY=60&descSize=18)
 
-<!-- PROFILE VIEWS & BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashish-nayakk&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  <a href="https://ashishnayakworks.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ashishnayakworks.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://buymeacoffee.com/ashishkumarnayak" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Data+Scientist;Building+Real-World+AI+Systems;NLP+%26+LLM+Enthusiast;RAG+%26+Generative+AI+Explorer;Full-Stack+ML+Developer;Welcome+to+My+GitHub+%F0%9F%9A%80)](https://github.com/Ashish-nayakk)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashish-nayakk&label=Profile%20Views&color=7c3aed&style=for-the-badge)](https://github.com/Ashish-nayakk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashishnayakworks.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://ashishnayakworks.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishnayakofficial05@gmail.com)
+
+</div>
 
 ---
 
 ## 👋 About Me
 
-I'm a passionate Computer Science student and AI/ML enthusiast dedicated to building intelligent systems that solve real-world problems.
-
-### 🧠 What I Specialize In
-
-<table align="center">
-  <tr>
-    <td align="center"><b>🧠 Machine Learning</b><br><sub>Deep Learning & Neural Networks</sub></td>
-    <td align="center"><b>📝 Natural Language Processing</b><br><sub>Text Analysis & Understanding</sub></td>
-    <td align="center"><b>🤖 LLMs & RAG</b><br><sub>Large Language Models & Retrieval</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>📊 Data Science</b><br><sub>Analytics & Visualization</sub></td>
-    <td align="center"><b>🏗️ MLOps</b><br><sub>Model Deployment & Scaling</sub></td>
-    <td align="center"><b>🚀 Full-Stack ML</b><br><sub>End-to-End Solutions</sub></td>
-  </tr>
-</table>
+I'm a passionate **Computer Science student** and **AI/ML Engineer** dedicated to building intelligent systems that solve real-world problems. I specialize in designing production-ready deep learning pipelines, NLP systems, and generative AI applications — from raw research to deployed solutions.
 
 > *"Turning data into decisions, one algorithm at a time."*
 
 ---
 
+## 🧠 What I Specialize In
+
+<div align="center">
+
+| 🧠 Machine Learning | 📝 Natural Language Processing | 🤖 LLMs & RAG |
+|:---:|:---:|:---:|
+| Deep Learning & Neural Networks | Text Analysis & Understanding | Large Language Models & Retrieval |
+| **📊 Data Science** | **🏗️ MLOps** | **🚀 Full-Stack ML** |
+| Analytics & Visualization | Model Deployment & Scaling | End-to-End Solutions |
+
+</div>
+
+---
+
 ## 📌 Quick Facts
 
-<table>
-  <tr>
-    <td>🌱 <b>Currently Learning</b></td>
-    <td>Advanced LLM Fine-tuning, MLOps, LangChain</td>
-  </tr>
-  <tr>
-    <td>👯 <b>Looking to Collaborate</b></td>
-    <td>Open-source NLP & ML projects</td>
-  </tr>
-  <tr>
-    <td>💬 <b>Ask Me About</b></td>
-    <td>Python, ML, NLP, RAG, LLMs</td>
-  </tr>
-  <tr>
-    <td>📫 <b>Reach Me</b></td>
-    <td><a href="https://instagram.com/ashishnayak3157">@ashishnayak3157</a> on Instagram</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Fun Fact</b></td>
-    <td>I turn complex problems into elegant solutions</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Goal</b></td>
-    <td>Democratize AI for everyone</td>
-  </tr>
-</table>
+| | |
+|---|---|
+| 🌱 **Currently Learning** | Advanced LLM Fine-tuning, MLOps, LangChain |
+| 👯 **Looking to Collaborate** | Open-source NLP & ML projects |
+| 💬 **Ask Me About** | Python, ML, NLP, RAG, LLMs, Transformers |
+| 📫 **Reach Me** | ashishnayakofficial05@gmail.com |
+| ⚡ **Fun Fact** | I turn complex problems into elegant solutions |
+| 🎯 **Goal** | Democratize AI for everyone |
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -92,10 +62,10 @@ I'm a passionate Computer Science student and AI/ML enthusiast dedicated to buil
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 📝 NLP & LLM
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### 📊 Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -110,12 +80,10 @@ I'm a passionate Computer Science student and AI/ML enthusiast dedicated to buil
 
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 ---
 
@@ -124,12 +92,12 @@ I'm a passionate Computer Science student and AI/ML enthusiast dedicated to buil
 <div align="center">
 
 | Stats | Top Languages |
-|-------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Ashish-nayakk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&ring_color=7c3aed" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-nayakk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7c3aed" alt="Top Languages" /> |
+|:---:|:---:|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-nayakk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&ring_color=7c3aed)](https://github.com/Ashish-nayakk) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-nayakk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7c3aed)](https://github.com/Ashish-nayakk) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-nayakk&theme=radical&hide_border=true&background=0D1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-nayakk&theme=radical&hide_border=true&background=0D1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed)](https://github.com/Ashish-nayakk)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-nayakk&theme=react-dark&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true" alt="Activity Graph" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish-nayakk&theme=react-dark&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true)](https://github.com/Ashish-nayakk)
 
 </div>
 
@@ -139,98 +107,23 @@ I'm a passionate Computer Science student and AI/ML enthusiast dedicated to buil
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔍 Academic Integrity Predictor</h3>
-      <p align="center">Advanced plagiarism & AI-content detection using NLP and stylometric profiling</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ashish-nayakk/Academic-Integrity-predictor">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛡️ SpectraGuard AI</h3>
-      <p align="center">Production-ready deepfake detection using dual-stream CNN + Vision Transformer</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/EfficientNet-7c3aed?style=flat&logo=python&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ashish-nayakk/spectraguard-ai">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 Sentiment Analysis</h3>
-      <p align="center">NLP sentiment classification using Traditional ML + BERTweet Transformers</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/BERTweet-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ashish-nayakk/Internship-Sentiment-Analysis-Project">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Software Testing Agent</h3>
-      <p align="center">AI-powered automated testing with AST analysis + CodeT5 test generation</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/CodeT5-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/AST-3776AB?style=flat&logo=python&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ashish-nayakk/Software_testing_agent">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💬 AutoStream AI Agent</h3>
-      <p align="center">GenAI-powered conversational agent with RAG + intent detection</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/RAG-7c3aed?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM-000000?style=flat&logo=ai&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ashish-nayakk/AutoStream-AI-Agent">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⭐ More Projects</h3>
-      <p align="center">Explore all my repositories on GitHub</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-7c3aed?style=flat&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ashish-nayakk?tab=repositories">
-          <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| 🔍 Academic Integrity Predictor | 🛡️ SpectraGuard AI |
+|:---|:---|
+| Advanced plagiarism & AI-content detection using NLP and stylometric profiling | Production-ready deepfake detection using dual-stream CNN + Vision Transformer |
+| ![NLP](https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![ViT](https://img.shields.io/badge/Vision_Transformer-7c3aed?style=flat&logo=python&logoColor=white) |
+| [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-nayakk/Academic-Integrity-predictor) | [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-nayakk/spectraguard-ai) |
+
+| 📊 Sentiment Analysis | 🤖 Software Testing Agent |
+|:---|:---|
+| NLP sentiment classification using Traditional ML + BERTweet Transformers | AI-powered automated testing with AST analysis + CodeT5 test generation |
+| ![NLP](https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white) ![BERTweet](https://img.shields.io/badge/BERTweet-FFD21E?style=flat&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![CodeT5](https://img.shields.io/badge/CodeT5-FFD21E?style=flat&logo=huggingface&logoColor=black) ![AST](https://img.shields.io/badge/AST-3776AB?style=flat&logo=python&logoColor=white) |
+| [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-nayakk/Internship-Sentiment-Analysis-Project) | [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-nayakk/Software_testing_agent) |
+
+| 💬 AutoStream AI Agent | ⭐ More Projects |
+|:---|:---|
+| GenAI-powered conversational agent with RAG + intent detection | Explore all my repositories on GitHub |
+| ![RAG](https://img.shields.io/badge/RAG-7c3aed?style=flat&logo=python&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-FF6F00?style=flat&logo=openai&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-000000?style=flat&logo=ai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-7c3aed?style=flat&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white) |
+| [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-nayakk/AutoStream-AI-Agent) | [![View All Projects](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-nayakk?tab=repositories) |
 
 </div>
 
@@ -238,24 +131,13 @@ I'm a passionate Computer Science student and AI/ML enthusiast dedicated to buil
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI_&_ML_Intern-InternsElite-7c3aed?style=for-the-badge" />
-        <br><sub>May 2025 - July 2025</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <br><sub>Advanced Python Programming</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Machine_Learning-Practitioner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <br><sub>ML & Deep Learning</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🎓 **AI & ML Intern** — InternElite *(May 2025 – July 2025)*
+  ![Python Expert](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Advanced Python](https://img.shields.io/badge/Advanced_Python_Programming-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- 🤖 **Machine Learning Practitioner**
+  ![ML & Deep Learning](https://img.shields.io/badge/Machine_Learning-Practitioner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Certified-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -276,53 +158,23 @@ I'm a passionate Computer Science student and AI/ML enthusiast dedicated to buil
 ## ☕ Support My Work
 
 <div align="center">
-  
-  If you find my work helpful, consider supporting my AI journey! ☕
-  
-  <a href="https://buymeacoffee.com/ashishkumarnayak" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
-  </a>
-  
-  <br><br>
-  
-  <i>Your support fuels innovation 🚀</i>
+
+If you find my work helpful, consider supporting my AI journey!
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/ashishkumarnayak)
+
+*Your support fuels innovation 🚀*
 
 </div>
 
 ---
-
-## 📬 Stay Connected
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>📧 Email</b><br>
-        <a href="mailto:ashishnayakofficial05@gmail.com">ashishnayakofficial05@gmail.com</a>
-      </td>
-      <td align="center">
-        <b>📱 Instagram</b><br>
-        <a href="https://instagram.com/ashishnayak3157">@ashishnayak3157</a>
-      </td>
-      <td align="center">
-        <b>🌐 Portfolio</b><br>
-        <a href="https://ashishnayakworks.vercel.app">ashishnayakworks.vercel.app</a>
-      </td>
-    </tr>
-  </table>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer)
+
+**Built with ❤️ by Ashish Kumar Nayak**
+© 2026 Ashish Kumar Nayak | AI/ML Engineer & Data Scientist
+⭐ Star this profile if you like it!
+
 </div>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <b>Built with ❤️ by Ashish Kumar Nayak</b>
-  <br>
-  <sub>© 2026 Ashish Kumar Nayak | AI/ML Engineer & Data Scientist</sub>
-  <br>
-  <sub>⭐ Star this profile if you like it!</sub>
-</p>
