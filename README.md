@@ -1,14 +1,14 @@
-<!-- HEADER BANNER WITH GRADIENT ANIMATION -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Ashish%20Kumar%20Nayak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%2FML%20Engineer%20%26%20Data%20Scientist&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Ashish%20Kumar%20Nayak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%26%20Data%20Scientist&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Data+Scientist;Building+Real-World+AI+Systems;NLP+%26+LLM+Enthusiast;RAG+%26+Generative+AI+Explorer;Full-Stack+ML+Developer;Welcome+to+My+GitHub+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Data+Scientist;Building+Real-World+AI+Systems;NLP+%26+LLM+Enthusiast;RAG+%26+Generative+AI+Explorer;Full-Stack+ML+Developer;Welcome+to+My+GitHub+🚀" alt="Typing Animation" />
 </p>
 
-<!-- VISITOR COUNTER & SOCIAL BADGES -->
+<!-- PROFILE VIEWS & BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashish-nayakk&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
   <a href="https://ashishnayakworks.vercel.app" target="_blank">
@@ -19,60 +19,61 @@
   </a>
 </p>
 
-<!-- GLOW LINE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 ---
 
 ## 👋 About Me
 
+I'm a passionate Computer Science student and AI/ML enthusiast dedicated to building intelligent systems that solve real-world problems.
+
+### 🧠 What I Specialize In
+
 <div align="center">
   <table>
     <tr>
-      <td width="65%">
-        <p align="left">
-          I'm a passionate <b>Computer Science student</b> and <b>AI/ML enthusiast</b> dedicated to building intelligent systems that solve real-world problems. I specialize in:
-        </p>
-        <ul align="left">
-          <li>🧠 <b>Machine Learning</b> & <b>Deep Learning</b></li>
-          <li>📝 <b>Natural Language Processing (NLP)</b></li>
-          <li>🤖 <b>Large Language Models (LLMs)</b> & <b>RAG Systems</b></li>
-          <li>📊 <b>Data Science</b> & <b>Analytics</b></li>
-          <li>🏗️ <b>MLOps</b> & <b>Model Deployment</b></li>
-        </ul>
-        <blockquote style="border-left: 4px solid #7c3aed; padding-left: 15px; color: #7c3aed; font-style: italic;">
-          "Turning data into decisions, one algorithm at a time."
-        </blockquote>
-      </td>
-      <td width="35%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQxZXNqa3UzNno3bDVtd3NvZTNxbGF3dHp0a29iM3JlaGpqZTVpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY29udGVudDlpZA/3o7TKSjRrfIPjeiLqM/giphy.gif" width="250" alt="Coding GIF" />
-      </td>
+      <td align="center"><b>🧠 Machine Learning</b><br><sub>Deep Learning & Neural Networks</sub></td>
+      <td align="center"><b>📝 Natural Language Processing</b><br><sub>Text Analysis & Understanding</sub></td>
+      <td align="center"><b>🤖 LLMs & RAG</b><br><sub>Large Language Models & Retrieval</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><b>📊 Data Science</b><br><sub>Analytics & Visualization</sub></td>
+      <td align="center"><b>🏗️ MLOps</b><br><sub>Model Deployment & Scaling</sub></td>
+      <td align="center"><b>🚀 Full-Stack ML</b><br><sub>End-to-End Solutions</sub></td>
     </tr>
   </table>
 </div>
 
-<!-- QUICK INFO CARDS -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🌱 <b>Currently Learning</b><br>Advanced LLM Fine-tuning, MLOps, LangChain</td>
-      <td align="center">👯 <b>Looking to Collaborate</b><br>Open-source NLP & ML projects</td>
-      <td align="center">💬 <b>Ask Me About</b><br>Python, ML, NLP, RAG, LLMs</td>
-    </tr>
-    <tr>
-      <td align="center">📫 <b>Reach Me</b><br>ashishnayak3157 (Instagram)</td>
-      <td align="center">⚡ <b>Fun Fact</b><br>I turn complex problems into elegant solutions</td>
-      <td align="center">🎯 <b>Goal</b><br>Democratize AI for everyone</td>
-    </tr>
-  </table>
-</div>
+> *"Turning data into decisions, one algorithm at a time."*
 
-<!-- GLOW LINE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+---
+
+## 📌 Quick Facts
+
+<table>
+  <tr>
+    <td>🌱 <b>Currently Learning</b></td>
+    <td>Advanced LLM Fine-tuning, MLOps, LangChain</td>
+  </tr>
+  <tr>
+    <td>👯 <b>Looking to Collaborate</b></td>
+    <td>Open-source NLP & ML projects</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask Me About</b></td>
+    <td>Python, ML, NLP, RAG, LLMs</td>
+  </tr>
+  <tr>
+    <td>📫 <b>Reach Me</b></td>
+    <td><a href="https://instagram.com/ashishnayak3157">@ashishnayak3157</a> on Instagram</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Fun Fact</b></td>
+    <td>I turn complex problems into elegant solutions</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Goal</b></td>
+    <td>Democratize AI for everyone</td>
+  </tr>
+</table>
 
 ---
 
@@ -118,11 +119,6 @@
 
 </div>
 
-<!-- GLOW LINE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -148,11 +144,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-nayakk&theme=react-dark&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
-<!-- GLOW LINE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -160,102 +151,97 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="border: 2px solid #7c3aed; border-radius: 12px; padding: 20px;">
+      <td width="50%">
         <h3 align="center">🔍 Academic Integrity Predictor</h3>
-        <div align="center">
-          <p><strong>Advanced plagiarism & AI-content detection using NLP and stylometric profiling</strong></p>
-          <p>
-            <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-            <img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-          </p>
+        <p align="center">Advanced plagiarism & AI-content detection using NLP and stylometric profiling</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+        </p>
+        <p align="center">
           <a href="https://github.com/Ashish-nayakk/Academic-Integrity-predictor">
             <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-        </div>
+        </p>
       </td>
-      <td width="50%" style="border: 2px solid #7c3aed; border-radius: 12px; padding: 20px;">
+      <td width="50%">
         <h3 align="center">🛡️ SpectraGuard AI</h3>
-        <div align="center">
-          <p><strong>Production-ready deepfake detection using dual-stream CNN + Vision Transformer</strong></p>
-          <p>
-            <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-            <img src="https://img.shields.io/badge/EfficientNet-7c3aed?style=flat&logo=python&logoColor=white" />
-          </p>
+        <p align="center">Production-ready deepfake detection using dual-stream CNN + Vision Transformer</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/EfficientNet-7c3aed?style=flat&logo=python&logoColor=white" />
+        </p>
+        <p align="center">
           <a href="https://github.com/Ashish-nayakk/spectraguard-ai">
             <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-        </div>
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%" style="border: 2px solid #7c3aed; border-radius: 12px; padding: 20px;">
+      <td width="50%">
         <h3 align="center">📊 Sentiment Analysis</h3>
-        <div align="center">
-          <p><strong>NLP sentiment classification using Traditional ML + BERTweet Transformers</strong></p>
-          <p>
-            <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/BERTweet-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-            <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-          </p>
+        <p align="center">NLP sentiment classification using Traditional ML + BERTweet Transformers</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/BERTweet-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+        </p>
+        <p align="center">
           <a href="https://github.com/Ashish-nayakk/Internship-Sentiment-Analysis-Project">
             <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-        </div>
+        </p>
       </td>
-      <td width="50%" style="border: 2px solid #7c3aed; border-radius: 12px; padding: 20px;">
+      <td width="50%">
         <h3 align="center">🤖 Software Testing Agent</h3>
-        <div align="center">
-          <p><strong>AI-powered automated testing with AST analysis + CodeT5 test generation</strong></p>
-          <p>
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-            <img src="https://img.shields.io/badge/CodeT5-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-            <img src="https://img.shields.io/badge/AST-3776AB?style=flat&logo=python&logoColor=white" />
-          </p>
+        <p align="center">AI-powered automated testing with AST analysis + CodeT5 test generation</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/CodeT5-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+          <img src="https://img.shields.io/badge/AST-3776AB?style=flat&logo=python&logoColor=white" />
+        </p>
+        <p align="center">
           <a href="https://github.com/Ashish-nayakk/Software_testing_agent">
             <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-        </div>
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%" style="border: 2px solid #7c3aed; border-radius: 12px; padding: 20px;">
+      <td width="50%">
         <h3 align="center">💬 AutoStream AI Agent</h3>
-        <div align="center">
-          <p><strong>GenAI-powered conversational agent with RAG + intent detection</strong></p>
-          <p>
-            <img src="https://img.shields.io/badge/RAG-7c3aed?style=flat&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat&logo=openai&logoColor=white" />
-            <img src="https://img.shields.io/badge/LLM-000000?style=flat&logo=ai&logoColor=white" />
-          </p>
+        <p align="center">GenAI-powered conversational agent with RAG + intent detection</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/RAG-7c3aed?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/LLM-000000?style=flat&logo=ai&logoColor=white" />
+        </p>
+        <p align="center">
           <a href="https://github.com/Ashish-nayakk/AutoStream-AI-Agent">
             <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-        </div>
+        </p>
       </td>
-      <td width="50%" style="border: 2px solid #7c3aed; border-radius: 12px; padding: 20px; background: rgba(124, 58, 237, 0.05);">
+      <td width="50%">
         <h3 align="center">⭐ More Projects</h3>
-        <div align="center">
-          <p><strong>Explore all my repositories on GitHub</strong></p>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/ML-7c3aed?style=flat&logo=tensorflow&logoColor=white" />
-            <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
-          </p>
+        <p align="center">Explore all my repositories on GitHub</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/ML-7c3aed?style=flat&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white" />
+        </p>
+        <p align="center">
           <a href="https://github.com/Ashish-nayakk?tab=repositories">
             <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-        </div>
+        </p>
       </td>
     </tr>
   </table>
 </div>
-
-<!-- GLOW LINE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
 
 ---
 
@@ -265,7 +251,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/AI_&_ML_Intern-InternsElite-7c3aed?style=for-the-badge&logo=intern&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_&_ML_Intern-InternsElite-7c3aed?style=for-the-badge" />
         <br><sub>May 2025 - July 2025</sub>
       </td>
       <td align="center">
@@ -280,11 +266,6 @@
   </table>
 </div>
 
-<!-- GLOW LINE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 ---
 
 ## 🌐 Let's Connect
@@ -296,14 +277,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashishnayak3157)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishnayakofficial05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-nayakk)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashishkumarnayak)
 
 </div>
-
-<!-- GLOW LINE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
 
 ---
 
@@ -323,14 +298,10 @@
 
 </div>
 
-<!-- GLOW LINE DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+## 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashish-nayakk/Ashish-nayakk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashish-nayakk/Ashish-nayakk/output/github-contribution-grid-snake.svg" />
